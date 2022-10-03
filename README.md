@@ -12,7 +12,8 @@ Git clone, open in VS code.
 
 https://christophermowrey.github.io/html-portfolio/
 
-![Screenshot](./assets/images/screenshot.png)
+![Screenshot1](./assets/images/Screenshot1.png)
+![Screenshot1](./assets/images/Screenshot1.png)
 
 
 ## License
